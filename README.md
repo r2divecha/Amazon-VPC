@@ -75,4 +75,3 @@ To set up a VPC or a subnet, you can use the command 'create-subnet'. Make sure 
 ### Comparing CloudShell vs AWS Console
 
 Compared to using the AWS Console, an advantage of using commands is efficiency, it takes minutes using a command line. An advantage of using the Console is being able to see all the options you can inlcude in your VPC. Overall, I preferred the Console learning how to create my own VPC, subnet, and internet gateway, but acknowledge that commands will come inhandy once I get used to creating them in the future.
-Uploading README-5.md…]()
